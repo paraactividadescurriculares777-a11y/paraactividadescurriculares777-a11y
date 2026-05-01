@@ -1,5 +1,7 @@
-<div align="center">
 ## Hola, soy Dana 👩‍💻✨
+
+<div align="center">
+
 Estudiante de Ingeniería en Sistemas · Electrónica · Teatro · Maker
 </div>
 
