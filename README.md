@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/paraactividadescurriculares777-a11y.png" width="130"/>
 Hola, soy Dana 👩‍💻✨
 Estudiante de Ingeniería en Sistemas · Electrónica · Teatro · Maker
 </div>
