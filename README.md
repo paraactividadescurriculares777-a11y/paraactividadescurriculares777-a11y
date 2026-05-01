@@ -62,7 +62,19 @@ Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 
 ### 🎭 Más sobre mí
 <div align="center">
-🎓Estudiante de Ingeniería en Sistemas — UMSS⚡Técnico Medio en Electricidad Industrial🎭Teatro & Oratoria — Casa de la Juventud🌍Delegada IBMUN 2024🤖Maker: Arduino, ESP32, Raspberry Pi🇧🇴Cochabamba, Bolivia
+🎓Estudiante de Ingeniería en Sistemas — UMSS⚡
+  
+  Técnico Medio en Electricidad Industrial
+  
+  🎭Teatro & Oratoria — Casa de la Juventud
+  
+  🌍Delegada IBMUN 2024
+  
+  🤖Maker: Arduino, ESP32, Raspberry Pi
+  
+  🇧🇴Cochabamba, Bolivia
+
+  
 </div>
 
 <div align="center">
