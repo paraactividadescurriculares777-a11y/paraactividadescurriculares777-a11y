@@ -1,9 +1,9 @@
 <div align="center">
-Hola, soy Dana 👩‍💻✨
+##Hola, soy Dana 👩‍💻✨
 Estudiante de Ingeniería en Sistemas · Electrónica · Teatro · Maker
 </div>
 
-Sobre mí 😄
+##Sobre mí 😄
 ¡Hola! Soy Dana, estudiante de Ingeniería en Sistemas en la Universidad Mayor de San Simón (UMSS). Me apasiona construir cosas, ya sea con código o con cables 🔌.
 Tengo Técnico Medio en Electricidad Industrial, con experiencia en instalaciones domiciliarias, circuitos eléctricos y electrónicos — así que me siento igual de cómoda con un multímetro que con un teclado.
 Más allá de la tecnología, soy parte de la Casa de la Juventud, donde practico teatro y trabajo mis habilidades de oratoria y expresión. También participé como delegada en el IBMUN 2024 🌍, donde representé posiciones, debatí propuestas y aprendí a comunicar ideas con impacto.
@@ -41,7 +41,7 @@ Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 
 
 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paraactividadescurriculares777-a11y&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraactividadescurriculares777-a11y&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
