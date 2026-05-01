@@ -19,7 +19,10 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
 
 
 📍 Cochabamba, Bolivia
+
+
 📬 Contacto: (paraactividadescurriculares.777@gmail.com)
+
 
 ## 🛠️ Tecnologías y herramientas
 ### 💻 Lenguajes de programación
@@ -44,7 +47,11 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
 ### ⚡ Electricidad & Electrónica
 
 🏠 Instalaciones eléctricas domiciliarias
+
+
 🔌 Diseño y análisis de circuitos eléctricos y electrónicos
+
+
 🎓 Técnico Medio en Electricidad Industrial
 
 
