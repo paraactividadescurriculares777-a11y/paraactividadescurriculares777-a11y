@@ -1,9 +1,9 @@
 <div align="center">
-##Hola, soy Dana 👩‍💻✨
+## Hola, soy Dana 👩‍💻✨
 Estudiante de Ingeniería en Sistemas · Electrónica · Teatro · Maker
 </div>
 
-##Sobre mí 😄
+## Sobre mí 😄
 ¡Hola! Soy Dana, estudiante de Ingeniería en Sistemas en la Universidad Mayor de San Simón (UMSS). Me apasiona construir cosas, ya sea con código o con cables 🔌.
 Tengo Técnico Medio en Electricidad Industrial, con experiencia en instalaciones domiciliarias, circuitos eléctricos y electrónicos — así que me siento igual de cómoda con un multímetro que con un teclado.
 Más allá de la tecnología, soy parte de la Casa de la Juventud, donde practico teatro y trabajo mis habilidades de oratoria y expresión. También participé como delegada en el IBMUN 2024 🌍, donde representé posiciones, debatí propuestas y aprendí a comunicar ideas con impacto.
