@@ -21,8 +21,8 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
 📍 Cochabamba, Bolivia
 📬 Contacto: (tu correo aquí)
 
-🛠️ Tecnologías y herramientas
-💻 Lenguajes de programación
+## 🛠️ Tecnologías y herramientas
+### 💻 Lenguajes de programación
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,r,latex,matlab&perline=8" />
 </div>
@@ -32,32 +32,32 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
   &nbsp;
   <img src="https://img.shields.io/badge/NASM-6E4C13?style=for-the-badge&logoColor=white"/>
 </div>
-🔧 Hardware & Embebidos
+### 🔧 Hardware & Embebidos
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <br><br>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 </div>
-⚡ Electricidad & Electrónica
+### ⚡ Electricidad & Electrónica
 
 🏠 Instalaciones eléctricas domiciliarias
 🔌 Diseño y análisis de circuitos eléctricos y electrónicos
 🎓 Técnico Medio en Electricidad Industrial
 
 
-📂 Mis proyectos
+### 📂 Mis proyectos
 
 Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paraactividadescurriculares777-a11y&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraactividadescurriculares777-a11y&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
-🎭 Más sobre mí
+### 🎭 Más sobre mí
 <div align="center">
 🎓Estudiante de Ingeniería en Sistemas — UMSS⚡Técnico Medio en Electricidad Industrial🎭Teatro & Oratoria — Casa de la Juventud🌍Delegada IBMUN 2024🤖Maker: Arduino, ESP32, Raspberry Pi🇧🇴Cochabamba, Bolivia
 </div>
