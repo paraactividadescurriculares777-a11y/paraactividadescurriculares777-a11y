@@ -53,9 +53,6 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
 Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 
 
-### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com?user=paraactividadescurriculares777-a11y&theme=tokyonight&hide_border=true&locale=es" />
-
 ### 🎭 Más sobre mí
 <div align="center">
 🎓Estudiante de Ingeniería en Sistemas — UMSS⚡Técnico Medio en Electricidad Industrial🎭Teatro & Oratoria — Casa de la Juventud🌍Delegada IBMUN 2024🤖Maker: Arduino, ESP32, Raspberry Pi🇧🇴Cochabamba, Bolivia
