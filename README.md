@@ -54,11 +54,7 @@ Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 
 
 ### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paraactividadescurriculares777-a11y&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraactividadescurriculares777-a11y&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=paraactividadescurriculares777-a11y&theme=tokyonight&hide_border=true&locale=es" />
 
 ### 🎭 Más sobre mí
 <div align="center">
