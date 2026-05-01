@@ -31,13 +31,16 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
   <img src="https://img.shields.io/badge/Assembly-333333?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/NASM-6E4C13?style=for-the-badge&logoColor=white"/>
-</div>
-### 🔧 Hardware & Embebidos
+</div> 
+
+###  🔧 Hardware & Embebidos
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <br><br>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 </div>
+
 ### ⚡ Electricidad & Electrónica
 
 🏠 Instalaciones eléctricas domiciliarias
