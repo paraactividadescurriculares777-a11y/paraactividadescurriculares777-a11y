@@ -19,7 +19,7 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
 
 
 📍 Cochabamba, Bolivia
-📬 Contacto: (tu correo aquí)
+📬 Contacto: (paraactividadescurriculares.777@gmail.com)
 
 ## 🛠️ Tecnologías y herramientas
 ### 💻 Lenguajes de programación
