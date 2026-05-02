@@ -1,17 +1,17 @@
-## Hola, soy Dana 👩‍💻✨
+## Hi, I'm Dana 👩‍💻✨
 
 <div align="center">
 
-Estudiante de Ingeniería en Sistemas · Electrónica · Teatro · Maker
+I'am a computer engineering student · Electronic · Theatre · Maker
 </div>
 
-## Sobre mí 😄
-¡Hola! Soy Dana, estudiante de Ingeniería en Sistemas en la Universidad Mayor de San Simón (UMSS). 
+## About me 😄
+¡Hi! I'm Dana, I'am a computer engineering student at Mayor de San Simón University (UMSS). 
 
-Me apasiona construir cosas, ya sea con código o con cables 🔌.
+I love creating things, whether it's through coding or tinkering with wires 🔌.
 
 
-Tengo Técnico Medio en Electricidad Industrial, con experiencia en instalaciones domiciliarias, circuitos eléctricos y electrónicos — así que me siento igual de cómoda con un multímetro que con un teclado.
+I have a vocational qualification in industrial Electricity, and have experience in domestic electrical installations, electrical circuits and electronics — so I'm just as comfortable with a multimeter as I am with a keyboard.
 
 
 Más allá de la tecnología, soy parte de la Casa de la Juventud, donde practico teatro y trabajo mis habilidades de oratoria y expresión. También participé como delegada en el IBMUN 2024 🌍, donde representé posiciones, debatí propuestas y aprendí a comunicar ideas con impacto.
