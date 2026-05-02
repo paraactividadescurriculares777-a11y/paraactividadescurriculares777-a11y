@@ -14,18 +14,18 @@ I love creating things, whether it's through coding or tinkering with wires 🔌
 I have a vocational qualification in industrial Electricity, and have experience in domestic electrical installations, electrical circuits and electronics — so I'm just as comfortable with a multimeter as I am with a keyboard.
 
 
-Más allá de la tecnología, soy parte de la Casa de la Juventud, donde practico teatro y trabajo mis habilidades de oratoria y expresión. También participé como delegada en el IBMUN 2024 🌍, donde representé posiciones, debatí propuestas y aprendí a comunicar ideas con impacto.
-Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen software + hardware. 🚀
+Beyond technology, I'm part of the Youth Center, where I practice theater and work on my public speaking and communication skills. I also participated as a delegate at IBMUN 2024.🌍, where I represented positions, debated proposals, and learned to communicate ideas with impact.
+Always open to learning, collaborating, and getting involved in crazy projects that mix software and hardware. 🚀
 
 
 📍 Cochabamba, Bolivia
 
 
-📬 Contacto: (paraactividadescurriculares.777@gmail.com)
+📬 Contact: (paraactividadescurriculares.777@gmail.com)
 
 
-## 🛠️ Tecnologías y herramientas
-### 💻 Lenguajes de programación
+## 🛠️ Technologies and tools
+### 💻 Programming languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,r,latex,matlab&perline=8" />
 </div>
@@ -36,7 +36,7 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
   <img src="https://img.shields.io/badge/NASM-6E4C13?style=for-the-badge&logoColor=white"/>
 </div> 
 
-###  🔧 Hardware & Embebidos
+###  🔧 Hardware & Embedded
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
@@ -44,31 +44,30 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 </div>
 
-### ⚡ Electricidad & Electrónica
+### ⚡ Electricity & Electronics
 
-🏠 Instalaciones eléctricas domiciliarias
-
-
-🔌 Diseño y análisis de circuitos eléctricos y electrónicos
+🏠 Residential electrical installations
 
 
-🎓 Técnico Medio en Electricidad Industrial
+🔌 Design and analysis of electrical and electronic circuits
 
 
-### 📂 Mis proyectos
+🎓 Intermediate Technician in Industrial Electricity
 
-Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
+### 📂 my projects
+
+I'll be uploading my projects here soon. Stay tuned!! 👀
 
 
-### 🎭 Más sobre mí
+### 🎭 More about me
 <div align="center">
-🎓Estudiante de Ingeniería en Sistemas — UMSS⚡
+🎓Computer Engineering Student — UMSS⚡
   
-  Técnico Medio en Electricidad Industrial
+  Intermediate Technician in Industrial Electricity
   
-  🎭Teatro & Oratoria — Casa de la Juventud
+  🎭Theatre & Public Speaking — Youth Center
   
-  🌍Delegada IBMUN 2024
+  🌍IBMUN Delegate 2024
   
   🤖Maker: Arduino, ESP32, Raspberry Pi
   
@@ -78,5 +77,5 @@ Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 </div>
 
 <div align="center">
-"El mejor código es el que también entiende el mundo físico." 🔧💡
+"The best code is the one that also understands the physical world."🔧💡
 </div>
